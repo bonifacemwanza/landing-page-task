@@ -1,0 +1,15 @@
+{
+  "name": "landing_page_task",
+  "version": "1.0.0",
+  "description": "Landing page task",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "CBMK DEVS",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
