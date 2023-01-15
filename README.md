@@ -7,6 +7,8 @@ Hi Guys, glad to share with you this awesome quick refresher task
 
 To Start the  clone the repo  `git clode https://github.com/bonifacemwanza/landing-page-task.git` <br  > Run `npm install`and then `npm start` to start app with  ParcelJs(https://parceljs.org/)
 
+link to the final app(https://landing-page-cbmkdevs.netlify.app)
+
 ## Task Description
 
 Task: Given the image above, please implement HTML with CSS to match the description.
